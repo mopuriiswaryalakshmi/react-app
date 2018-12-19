@@ -1,0 +1,7 @@
+16/12/2018
+
+create-react-app first-app
+
+npm start //development
+npm run build  //production
+webpack.js.org  //webpack
